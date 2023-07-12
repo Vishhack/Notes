@@ -17,7 +17,7 @@ There are two primary data types in Power BI DAX functions:
 - **Numeric:** numeric data types include decimals, currency values, integers, etc.
 - **Non-numeric:** it consists of strings, binary objects, etc. 
 ## **DAX Formula – Syntax**
-![https://intellipaat.com/blog/wp-content/uploads/2021/07/image004.gif](Aspose.Words.349f6c17-1c8d-4996-acf7-a9655221b34f.001.png)
+
 
 It represents a custom formula used to create new columns by multiplying the values of the other two columns. Let’s break it down and understand what each element does:
 
